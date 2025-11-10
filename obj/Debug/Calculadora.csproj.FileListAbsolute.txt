@@ -1,0 +1,11 @@
+D:\Trabajo 6 tec Info\Programación - Diyarian\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Trabajo 6 tec Info\Programación - Diyarian\Calculadora\bin\Debug\Calculadora.exe
+D:\Trabajo 6 tec Info\Programación - Diyarian\Calculadora\bin\Debug\Calculadora.pdb
+D:\Trabajo 6 tec Info\Programación - Diyarian\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Trabajo 6 tec Info\Programación - Diyarian\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Trabajo 6 tec Info\Programación - Diyarian\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Trabajo 6 tec Info\Programación - Diyarian\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Trabajo 6 tec Info\Programación - Diyarian\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Trabajo 6 tec Info\Programación - Diyarian\Calculadora\obj\Debug\Calculadora.exe
+D:\Trabajo 6 tec Info\Programación - Diyarian\Calculadora\obj\Debug\Calculadora.pdb
+D:\Trabajo 6 tec Info\Programación - Diyarian\Calculadora\obj\Debug\Calculadora.exe.config
